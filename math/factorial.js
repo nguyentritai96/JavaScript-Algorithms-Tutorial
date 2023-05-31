@@ -9,3 +9,7 @@ function factorial(n) {
 console.log(factorial(0)) // 1
 console.log(factorial(1)) // 1
 console.log(factorial(5)) // 120
+
+/*
+  Vòng lặp: tuần tự, theo 1 chiều, dùng biến từ bên ngoài để catch lại
+*/
